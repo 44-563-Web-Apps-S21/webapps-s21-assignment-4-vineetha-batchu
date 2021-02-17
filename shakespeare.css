@@ -36,5 +36,5 @@ table, th, td {
     border: 3px groove;
   }
   tr:nth-child(even) {
-    background-color: lightsalmon;
+    background-color: rgb(122, 255, 177);
 }
