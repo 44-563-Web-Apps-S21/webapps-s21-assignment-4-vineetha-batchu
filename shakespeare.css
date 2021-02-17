@@ -25,3 +25,16 @@
 .PROTEUS{
     color:darkmagenta;
 }
+.table{
+    color:pink;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+ 
+table, th, td {
+    border: 3px groove;
+  }
+  tr:nth-child(even) {
+    background-color: lightsalmon;
+}
