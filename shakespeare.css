@@ -46,3 +46,21 @@ table, th, td {
     border:darkgreen;
     border-style:ridge;   
 }
+ul.navbar-horizontal 
+{   list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left; 
+    color:rgb(134, 31, 48);
+    background-color:lightgray;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+    ul.navbar-horizontal a:hover{  
+        background-color: rgb(68, 59, 59);
+        color:white;
+    }
