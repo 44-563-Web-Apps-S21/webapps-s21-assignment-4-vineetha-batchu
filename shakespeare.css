@@ -1,0 +1,26 @@
+.speech{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16x;
+    color: black ;
+    background-color: lightcyan;
+   
+}
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color:black ;
+}
+.stage-direction:hover{
+    background-color:lightpink;
+    color: white;
+}
+x.VALENTINE{
+    color:yellow;
+}
+.PROTEUS{
+    color:grey;
