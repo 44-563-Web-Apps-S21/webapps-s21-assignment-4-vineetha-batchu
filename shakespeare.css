@@ -25,6 +25,9 @@
 .PROTEUS{
     color:darkmagenta;
 }
+.SPEED{
+    color:darkred;
+}
 .table{
     color:teal;
     text-align: center;
@@ -38,3 +41,4 @@ table, th, td {
   tr:nth-child(even) {
     background-color:lightgray;
 }
+
